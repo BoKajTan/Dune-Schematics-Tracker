@@ -5,6 +5,10 @@ If youre considering helping the Project via an Donation please add https://s.te
 
 The Project is free for all but please note that without my Permissions youre not allowed to change the code or reupload it on any other sites
 
+Please note that I will try Update the app as fast as possible but after an update it can take up to 3 Weeks for the new Schematics to be added
+
+All credits are going to Adain from gaming.tools for the Pictures of the Schematics
+
 
 See you on Arrakis Sleepers 
 
