@@ -1,4 +1,7 @@
-The Schematic Tracker is an Website that you can Upload to Sites like https://app.netlify.com/ 
+while there is the possibility to set up an personal site please note that im currently working on an site availabel for everyone
+
+
+
 please note that the App was created using the Help of AI if you find any Bugs in the Apps please write an email to thunderhawk845@gmail.com
 If youre considering helping the Project via an Donation please add https://s.team/p/gnfw-rwkk/kmnpnmtm as your Friend and maybe Donate some Steam Credit
 
